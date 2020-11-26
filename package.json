@@ -1,0 +1,23 @@
+{
+  "name": "sar-motion-capture-animating",
+  "version": "0.0.1",
+  "description": "Animate sar characters. Used tensorflow's poseNet library and added Spine runtime.",
+  "main": "motion_capture.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lowfatbananamilk/SAR-Motion-capture-animating.git"
+  },
+  "author": {
+    "name": "ShinhuPark",
+    "url": "https://github.com/ShinhuPark"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lowfatbananamilk/SAR-Motion-capture-animating/issues"
+  },
+  "homepage": "https://github.com/ShinhuPark/SAR-Motion-capture-animating"
+}
